@@ -8,7 +8,7 @@ int search(vector<int>& nums, int target)
     int lb = 0, ub = n-1;
     int mid;
     while(lb<=ub){
-        mid = (lb+ub)/2;
+        mid = (lb+ub)/2; // To optimize this approach, we calculate mid as mid = start + (end - start)/2
         if(nums[mid] < target)
         {
             lb = mid+1;
@@ -28,7 +28,7 @@ int main ()
 {
     vector<int>nums = {-1,0,3,5,9,12}; // output = 4
     int target = 9;
-    int ans = search(nums,9);
+    int ans = search(nums,target);
     cout << ans << endl;
     return 0;
 }
