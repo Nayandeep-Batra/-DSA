@@ -1,4 +1,5 @@
 *.exe
+/Arrays
 arrayinput.cpp
 arrayPassByRef.cpp
 arraysyntax.cpp
