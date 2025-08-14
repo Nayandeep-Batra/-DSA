@@ -42,3 +42,7 @@ int main(){
     cout << endl;
     return 0;
 }
+
+//we can also use next_permutation function instead of whole above program 
+// next_permutation(A.begin() , A.end());
+// the above function will also give the exact output as whole program that is written above.
