@@ -23,6 +23,10 @@ int search(vector<int>& nums, int target)
         }
         }
     return -1;
+
+    //There is also a pre defined function in c++ for Search;
+    // SYNTAX
+    // binary_search(vec.begin(), vec.end(), 4) This is eg function
 }
 int main ()
 {
