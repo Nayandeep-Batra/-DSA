@@ -29,3 +29,10 @@ StringBasic.cpp
 StringReverse.cpp
 ListBasics.cpp
 DetectCycle.cpp
+list_stl.cpp
+LLmergeSort.cpp
+RemoveCycle.cpp
+StackBasics.cpp
+UsingClassTemp.cpp
+pushBottom.cpp
+NextGreater.cpp
