@@ -41,3 +41,6 @@ Qusing2Stacks.cpp
 QueueUsingList.cpp
 CircularQueue.cpp
 Stackuse2Q.cpp
+Deque.cpp
+QueueUsingDeque.cpp
+StackUsingDeque.cpp
