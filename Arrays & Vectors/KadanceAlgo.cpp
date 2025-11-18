@@ -1,3 +1,5 @@
+// For this algorithm to work efficiently, all the elements should be +ve
+
 #include <iostream>
 #include <vector>
 using namespace std;
